@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NathanKhoP!
 - 👀 I’m interested in Cyber Security and Robotics.
 - 🌱 I’m currently learning Web Exploitation, Forensics, and ROV/AUV Development.
-- ⚡ I enjoy playing rhythm games, story-driven games, and might get into Linux ricing.
+- My other account for things outside of college: @Etern1tyDark
 
 <!---
 NathanKhoP/NathanKhoP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
