@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi, I’m @NathanKhoP!<br>👀 I’m interested in Cyber Security and Robotics.<br>🌱 I’m currently learning Cryptography, Forensics, and ROV/AUV Development.<br>My other account for things outside of college: @Etern1tyDark<br>
+👋 Hi, I’m @NathanKhoP!<br>👀 I’m interested in Cyber Security and Robotics.<br>🌱 I’m currently learning Cryptography, Forensics, and ROV/AUV Development.<br>My other account for things outside of college: [@Etern1tyDark](https://github.com/Etern1tyDark)
+<br>
 
 
 ## 🌐 Socials:
