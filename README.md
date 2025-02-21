@@ -1,5 +1,10 @@
-# /root
-My other account for things outside of college: [@Etern1tyDark](https://github.com/Etern1tyDark)
+<h1 align="center" markdown="1">
+  /root
+</h1>
+
+<h4 align="center" markdown="1">
+  [@Etern1tyDark](https://github.com/Etern1tyDark)
+</h4>
 <br>
 
 
