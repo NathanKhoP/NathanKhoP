@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center" markdown="1">
-  [@Etern1tyDark](https://github.com/Etern1tyDark)
+  a.k.a. <a href="https://github.com/Etern1tyDark">Etern1tyDark</a>
 </h4>
 <br>
 
