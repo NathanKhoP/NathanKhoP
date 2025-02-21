@@ -1,12 +1,9 @@
 <h1 align="center" markdown="1">
   /root
 </h1>
-
-<h4 align="center" markdown="1">
+<h3 align="center" markdown="1">
   a.k.a. <a href="https://github.com/Etern1tyDark">Etern1tyDark</a>
-</h4>
-<br>
-
+</h3>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nathan_kp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nathan-k-pancras) 
